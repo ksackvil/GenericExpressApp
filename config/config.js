@@ -4,7 +4,7 @@ const configValidator = require('../src/utils/configValidator.js')
 
 const config = {
   // ~~~~~ Mongo vars ~~~~~ //
-  hostname: "mongodb://127.0.0.1/",
+  hostname: "mongodb://roastAndToast:roastandtoast22@ds131973.mlab.com:31973/heroku_cpml9k8p",
   dbName: 'dev',
 
   // ~~~~~ Express vars ~~~~~ //
